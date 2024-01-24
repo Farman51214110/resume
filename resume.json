@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "name": "Farman Abbas",
+  "username": "farman10",
+  "address": {
+    "street": "Lane 7",
+    "suite": "CB198",
+    "city": "Rawalpindi",
+    "zipcode": "46000",
+    
+  },
+  "phone": "+92 346 0281209",
+   "email": "abbasfarman13@gmail.com",
+     "linkedin": "https://www.linkedin.com/in/farman51214110/",
+  }
+}
